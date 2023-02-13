@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "textFontFamily": "",
+  "translucency": true,
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "tab"
+  ],
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "Monaco"
+}

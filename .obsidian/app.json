@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false,
+  "rightToLeft": false,
+  "foldIndent": false,
+  "foldHeading": true,
+  "showIndentGuide": false,
+  "autoPairBrackets": false,
+  "useTab": false,
+  "livePreview": true,
+  "attachmentFolderPath": "999-附件",
+  "alwaysUpdateLinks": true
+}

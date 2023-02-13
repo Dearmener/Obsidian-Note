@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "bc042baec15b21de",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae5738c4616dd6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2701cd1fdefed406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-个人文档/前端/VUE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3327c44cdee66177",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2212e31e5b7834d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc99337f4bbc49c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91b3cd203e8efc51",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "791ac73ccd41fb66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fbcbe5f05c8b708c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8292114c31ffae41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6676586235fada",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-个人文档/前端/VUE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3b21f1e998f638b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-个人文档/前端/VUE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71410fe0a241215f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18067c38c6a6d7fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-个人文档/前端/VUE.md"
+              }
+            }
+          },
+          {
+            "id": "daac7a11da602b0f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e989ddc443a9e0db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2701cd1fdefed406",
+  "lastOpenFiles": [
+    "Home.md",
+    "2-工具/这篇 iTerm2 + Oh My Zsh 教程手把手让你成为这条街最靓的仔.md",
+    "1-个人文档/前端/如何降低Node 包版本 使用nvm.md",
+    "1-个人文档/前端/Tauri桌面端新起之秀 - 掘金.md",
+    "1-个人文档/日记/2023-02-10.md",
+    "1-个人文档/后端/JUnit 简介.md",
+    "1-个人文档/学习进度记录.md",
+    "2-工具/Kitty.md",
+    "1-个人文档/后端/算法/二分查找.md",
+    "1-个人文档/日记集.md"
+  ]
+}
