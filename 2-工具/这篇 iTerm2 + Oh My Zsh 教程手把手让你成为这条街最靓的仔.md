@@ -11,9 +11,8 @@
 
 这里就记录一下我是如何一步一步的打造属于自己的 `Terminal`，你如果想和我一样，直接 `cv 大法` 就可以搞一套一样的。
 
-Terminal
---------
-
+## Terminal
+---
 `Terminal` 我们经常会称作 `终端`，现在中文版的 `mac` 里也是叫做这个。
 
 ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/6/1/1726f38e523c6083~tplv-t2oaga2asx-zoom-in-crop-mark:4536:0:0:0.awebp)
@@ -30,7 +29,7 @@ Terminal
 
 不行，如果让我每天对着它，一定会把电脑砸了（虽然它是高贵的 16 寸 MacBook Pro），我得找一个第三方 `Terminal` 来替代它。
 
-iTerm2
+## iTerm2
 ------
 
 很快，我就找到了新欢，它的名字叫 `iTerm2`，它是一款完全免费，为 `macOS` 打造的一款终端工具，可以说是程序员必备了，如果还没用过的，赶紧跟着这篇文章用起来吧。
@@ -47,7 +46,7 @@ iTerm2
 
 告别黑底白字，整出最骚终端，开始吧。
 
-on my zsh
+## on my zsh
 ---------
 
 ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/6/1/1726f38e4bb59dc0~tplv-t2oaga2asx-zoom-in-crop-mark:4536:0:0:0.awebp)
