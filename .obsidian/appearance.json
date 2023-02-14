@@ -1,12 +1,11 @@
 {
   "accentColor": "",
-  "theme": "system",
+  "theme": "obsidian",
   "textFontFamily": "",
-  "translucency": true,
-  "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "tab"
-  ],
-  "cssTheme": "Blue Topaz",
-  "monospaceFontFamily": "Monaco"
+  "translucency": false,
+  "baseFontSize": 13,
+  "enabledCssSnippets": [],
+  "cssTheme": "Things",
+  "monospaceFontFamily": "Monaco",
+  "nativeMenus": true
 }

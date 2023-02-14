@@ -21,5 +21,7 @@
   "blue-topaz-theme@@font-family-h4": "Monaco,STFangSong",
   "blue-topaz-theme@@font-family-h5": "Monaco,STFangSong",
   "blue-topaz-theme@@font-family-h6": "Monaco,STFangSong",
-  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-solarized-light"
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-solarized-light",
+  "blue-topaz-theme@@remove-table-transition": true,
+  "blue-topaz-theme@@table-style-options": "table-style-default"
 }
